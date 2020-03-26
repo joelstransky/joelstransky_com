@@ -1,0 +1,17 @@
+---
+title: Military Adaptive Sports Program
+date: 2013-09-07 00:00:00 +0300
+description: # Add post description (optional)
+img: '../../assets/WTB_logo_spring.jpg' # Add image post (optional)
+tags: [illustrator] # add tag
+---
+
+I needed to add some modern design pieces to my portfolio and this great organization needed some help with their own promotion. It was a perfect match and a great way to give back to our hero’s.
+
+I started with two rounds of sketches and after getting their approval, I produced the final version in vector.
+
+![adaptive sports sketches](../../assets/WTB_logo_winter.jpg 'adaptive sports sketches')
+
+![adaptive sports sketches](../../assets/WT_sketches.jpg 'adaptive sports sketches')
+
+![adaptive sports sketch](../../assets/WT_sketch.jpg 'adaptive sports sketch')
