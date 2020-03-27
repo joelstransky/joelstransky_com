@@ -10,8 +10,14 @@ I needed to add some modern design pieces to my portfolio and this great organiz
 
 I started with two rounds of sketches and after getting their approval, I produced the final version in vector.
 
-![adaptive sports sketches](../../assets/WTB_logo_winter.jpg 'adaptive sports sketches')
+![adaptive sports sketches][winter]
 
-![adaptive sports sketches](../../assets/WT_sketches.jpg 'adaptive sports sketches')
+[winter]: ../../assets/WTB_logo_winter.jpg 'adaptive sports winter'
 
-![adaptive sports sketch](../../assets/WT_sketch.jpg 'adaptive sports sketch')
+![adaptive sports sketches][sketches]
+
+[sketches]: ../../assets/WT_sketches.jpg 'adaptive sports sketches'
+
+![adaptive sports sketch][sketch]
+
+[sketch]: ../../assets/WT_sketch.jpg 'adaptive sports sketch'
