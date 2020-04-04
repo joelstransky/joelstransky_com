@@ -23,6 +23,10 @@ module.exports = {
               maxWidth: 970,
             },
           },
+          {
+            resolve: `gatsby-remark-figure-caption`,
+            options: { figureClassName: 'md-figure' },
+          },
           `gatsby-remark-prismjs`,
         ],
       },
