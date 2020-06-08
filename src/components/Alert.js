@@ -43,16 +43,6 @@ function Alert(props) {
                 </a>
               </li>
             )}
-            {siteMetadata.social.facebook && (
-              <li>
-                <a
-                  href={`https://facebook.com/${siteMetadata.social.facebook}`}
-                  target="_blank"
-                >
-                  <i className="fa fa-facebook" aria-hidden="true" />
-                </a>
-              </li>
-            )}
             {siteMetadata.social.github && (
               <li>
                 <a
