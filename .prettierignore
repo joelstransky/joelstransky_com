@@ -1,4 +1,7 @@
-.cache
-package.json
-package-lock.json
-public
+.gitkeep
+.env*
+*.ico
+*.lock
+db/migrations
+.next
+.blitz
